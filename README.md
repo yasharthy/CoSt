@@ -15,6 +15,8 @@ The repository is organized in two folders, which are described below.
 
 ## 2. DATA
 
-- **ChIP-seq-list-HepG2.tsv**: Contains information about the 
+Contains information about the ChIP-seq IDR narrowPeak bed files acquired from the [ENCODE project](https://www.encodeproject.org).
 
-- **ChIP-seq-list-K562.tsv**:
+- **ChIP-seq-list-HepG2.tsv**: We acquired unique ChIP-seq IDR narrowPeak bed files for 458 transcription factors in the HepG2 cell line in *Homo sapiens*.
+
+- **ChIP-seq-list-K562.tsv**: We acquired unique ChIP-seq IDR narrowPeak bed files for 323 transcription factors in the K562 cell line in *Homo sapiens*.
