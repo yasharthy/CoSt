@@ -21,7 +21,6 @@ Contains information about the ChIP-seq IDR narrowPeak bed files for transcripti
 
 - **ChIP-seq-list-K562.tsv**: We acquired unique ChIP-seq IDR narrowPeak bed files for 323 transcription factors in the K562 cell line in *Homo sapiens*.
 
-Note that we have also used a separate dataset of active enhancer regions from the following source:
+Note that we have also used a separate [dataset of active enhancer regions](https://static-content.springer.com/esm/art%3A10.1186%2Fs13059-020-02194-x/MediaObjects/13059_2020_2194_MOESM2_ESM.xlsx) from the following paper:
 
-"STARRPeaker: uniform processing and accurate identification of STARR-seq active regions". Donghoon Lee *et al.* 2020 <br>
-[Link to the active enhancer dataset for both HepG2 and K562 cell lines](https://static-content.springer.com/esm/art%3A10.1186%2Fs13059-020-02194-x/MediaObjects/13059_2020_2194_MOESM2_ESM.xlsx)
+Lee, D., Shi, M., Moran, J. et al. STARRPeaker: uniform processing and accurate identification of STARR-seq active regions. Genome Biol 21, 298 (2020). https://doi.org/10.1186/s13059-020-02194-x <br>
