@@ -5,7 +5,7 @@ This repository contains the codes and data associated with the following manusc
 Yasharth Yadav#, Ajay Subbaroyan#, Olivier C. Martin*, Areejit Samal*.<br>
 (# Equal contribution, * Corresponding author)<br>
 
-![schematic figure]()
+![schematic figure](https://github.com/asamallab/CoSt/blob/main/CoSt_schematic.png)
 
 The repository is organized in two folders, which are described below. 
 
