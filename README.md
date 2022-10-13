@@ -29,6 +29,10 @@ The repository is organized in two folders, which are described below.
 
 - **k562_encode_enh_treg.tsv**: List of active enhancers in the K562 cell line and the ChIP-seq IDR narrowPeak bed filenames corresponding to the transcription factors that bind to a given active enhancer.
 
+- **frac_rand.tsv**: Fraction of composed BFs among all possible BFs at a given number of inputs *k*. Further, the file also lists the fractions occupied by biologically meaningful types of BFs among all composed BFs for a given composition structure.
+
+- **frac_emp.tsv**: Fraction of composed BFs among all possible BFs at a given number of inputs *k* in the empirical dataset of real BFs. Further, the file also lists the fractions occupied by biologically meaningful types of BFs among all composed BFs for a given composition structure in the empirical dataset of real BFs.
+
 **NOTE**: We have also used a separate [dataset of active enhancer regions](https://static-content.springer.com/esm/art%3A10.1186%2Fs13059-020-02194-x/MediaObjects/13059_2020_2194_MOESM2_ESM.xlsx) from the following paper:
 
 Lee, D., Shi, M., Moran, J. et al. STARRPeaker: uniform processing and accurate identification of STARR-seq active regions. Genome Biol 21, 298 (2020). https://doi.org/10.1186/s13059-020-02194-x <br>
