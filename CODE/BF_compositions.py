@@ -116,7 +116,7 @@ class generate:
         '''
         import json
         k = sum(comp_struc)
-        outfile_name = 'composed_BF_catalog/' + '-'.join(str(item) for item in comp_struc) + '.json'
+        outfile_name = '../DATA/composed_BF_catalog/' + '-'.join(str(item) for item in comp_struc) + '.json'
         with open(outfile_name,'r') as outfile:
             distinct_logics = [bin(func)[2:].zfill(2**k) for func in json.load(outfile)]
         return distinct_logics
