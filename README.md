@@ -5,6 +5,8 @@ This repository contains the codes and data associated with the following manusc
 Yasharth Yadav#, Ajay Subbaroyan#, Olivier C. Martin*, Areejit Samal*.<br>
 (# Equal contribution, * Corresponding author)<br>
 
+![schematic figure]()
+
 The repository is organized in two folders, which are described below. 
 
 ## 1. CODE
