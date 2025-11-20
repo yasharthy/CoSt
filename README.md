@@ -1,9 +1,11 @@
 # CoSt
- 
-This repository contains the codes and data associated with the following manuscript:<br>
-<i>Composition structures and biologically meaningful logics: plausibility and relevance in bipartite models of gene regulation.</i><br>
-Yasharth Yadav#, Ajay Subbaroyan#, Olivier C. Martin*, Areejit Samal*.<br>
-(# Equal contribution, * Corresponding author)<br>
+
+## About
+
+This repository contains the codes and data associated with the following research article:<br>
+
+Yasharth Yadav<sup>#</sup>, Ajay Subbaroyan<sup>#</sup>, Olivier C. Martin*, Areejit Samal*, [<i>Relative importance of composition structures and biologically meaningful logics in bipartite Boolean models of gene regulation</i>](https://www.nature.com/articles/s41598-022-22654-7), Scientific Reports, 12(1):18156, 2022.<br>
+(<sup>#</sup> Equal contributions, * Corresponding authors)
 
 ![schematic figure](https://github.com/asamallab/CoSt/blob/main/CoSt_schematic.png)
 
@@ -36,3 +38,8 @@ The repository is organized in two folders, which are described below.
 **NOTE**: We have also used a separate [dataset of active enhancer regions](https://static-content.springer.com/esm/art%3A10.1186%2Fs13059-020-02194-x/MediaObjects/13059_2020_2194_MOESM2_ESM.xlsx) from the following paper:
 
 Lee, D., Shi, M., Moran, J. et al. STARRPeaker: uniform processing and accurate identification of STARR-seq active regions. Genome Biol 21, 298 (2020). https://doi.org/10.1186/s13059-020-02194-x <br>
+
+## Citation
+In case you use the codes herein, please cite the following research article:
+
+Yasharth Yadav<sup>#</sup>, Ajay Subbaroyan<sup>#</sup>, Olivier C. Martin*, Areejit Samal*, [<i>Relative importance of composition structures and biologically meaningful logics in bipartite Boolean models of gene regulation</i>](https://www.nature.com/articles/s41598-022-22654-7), Scientific Reports, 12(1):18156, 2022.
